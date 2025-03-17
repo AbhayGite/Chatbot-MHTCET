@@ -1,4 +1,9 @@
-[
+[  
+     {
+        "instruction": "tell about the pict college pune",
+        "input": "Tell information about pict college?",
+        "output": "SCTR’s Pune Institute of Computer Technology envisions to be a centre of excellence in higher technical education and research, producing global leaders in the field of technology."
+    },
     {
         "instruction": "Computer Engineering at 81 percentile open",
         "input": "In which college I can get Computer Engineering at 81 percentile in open?",
